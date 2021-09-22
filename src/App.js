@@ -13,6 +13,9 @@ export default function App() {
     "😲": "Surprised",
     "😞": "Disappointed",
     "🤔": "Thinking",
+    "😏": "Smirking",
+    "😴": "Sleeping",
+    "😵": "Dizzy",
     "😡": "Furious"
   };
 
